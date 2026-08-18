@@ -118,12 +118,13 @@ Start the backend:
 npm run dev
 
 Frontend Setup:
+```bash
 Open a new terminal:
 
 cd frontend
 npm install
 npm run dev
-
+```
 
 ## Future Improvements
 
