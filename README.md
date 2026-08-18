@@ -79,6 +79,7 @@ Socket.IO
 Browser SpeechSynthesis (TTS)
     ↓
 User hears AI response 
+```
 
 ## How to Run the Project
 
@@ -99,14 +100,19 @@ Microphone permission must be allowed in the browser.
 ```bash
 git clone https://github.com/Satyajitmathan/Health-Screening-AI.git
 cd Health-Screening-AI
+```
 
 Backend Setup:
+```bash
 cd backend
 npm install
+```
 Create a .env file inside the backend folder:
 
+```env
 GEMINI_API_KEY=your_gemini_api_key_here
 GEMINI_MODEL=gemini-3.5-flash-lite
+```
 
 Start the backend:
 npm run dev
