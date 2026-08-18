@@ -78,7 +78,7 @@ Socket.IO
     ↓
 Browser SpeechSynthesis (TTS)
     ↓
-User hears AI response ```
+User hears AI response 
 
 ## How to Run the Project
 
